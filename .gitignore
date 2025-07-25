@@ -1,0 +1,25 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE specific ignores (VS Code)
+.vscode/
+
+# Operating System Files
+.DS_Store # macOS
+Thumbs.db # Windows
+desktop.ini # Windows
+
+# Sensitive files - CRITICAL FOR THIS PROJECT
+cookies.txt

@@ -1,0 +1,1 @@
+#please replace this line with your twitch cookies in Netscape format to handle the login authentication
